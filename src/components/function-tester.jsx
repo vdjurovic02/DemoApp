@@ -6,7 +6,7 @@ function ExerciseStart({ handleClick, output, children }) {
       <h2>Create Your First Serverless Function</h2>
       <p>
         Create a new file at <code>/netlify/functions/hello-world.js</code> and
-        put the following inside:
+        put the following inside: Perica peric
       </p>
       {children}
 
